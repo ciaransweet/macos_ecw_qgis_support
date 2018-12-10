@@ -92,7 +92,7 @@ Open up QGIS3 and with any luck when you go to `Layer -> Add Layer -> Add Raster
 
 This took me a few days to try and find a working solution that also used Homebrew for the most part. Please do give me a shout if this doesn't work for you or you have a better way to go about this.
 
-It's easiest to tweet me @Ciaran_Evans
+It's easiest to tweet me [@Ciaran_Evans](https://twitter.com/Ciaran_Evans)
 
 :) 
 
